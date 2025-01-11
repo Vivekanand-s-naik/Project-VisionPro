@@ -6,6 +6,8 @@ Your Gateway to Smarter Student Monitoring and Performance Insights
 🌟 Overview
 Project Vision is an innovative software solution that leverages advanced AI and computer vision technologies to redefine classroom management and enhance student performance. From facial recognition for attendance to AI-driven performance predictions, Project Vision empowers educators with real-time data and insights like never before.
 
+📽️https://youtu.be/fd64hsy3gEs?si=74DrF8cL4G9RPCkb
+
 🎯 Features
 Facial Recognition Attendance System
 
