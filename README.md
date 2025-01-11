@@ -33,6 +33,11 @@ Alerts for low attendance, irregular behavior, and reminders for assignments or 
 Classroom Automation
 
 Auto-rotating stand for seamless facial recognition across all classroom rows.
+
+👾How To Run
+install all required library and start yarn  in terminal.
+Then open terminal and run the main.py and make sure to load the dataset since you need to prepare your own dataset as per your requirement 
+
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 Backend: Python (Flask/Django)
